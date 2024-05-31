@@ -1,0 +1,1 @@
+This simple application helps you manage your tasks efficiently. Created using Python and HTML, and integrated with the Flask framework, it allows you to add, edit, and delete tasks with ease. Stay organized and keep track of your to-dos effortlessly.
